@@ -1,0 +1,30 @@
+copyright (c) 2024 NuclearCode Programming
+AssetFlow (c)
+
+This Program uses AES Encryption
+
+Team:
+
+    Benjmain Stroup - Leader
+
+About:
+
+    This is an Inventory Program I Created,
+    Although I Need To Rewrite it, it is not
+    That Bad
+
+How-It-Works:
+
+    if C:\Users\myhou\AppData\Local\Programs\AssetFlow is not a folder it creates it it uses a json file to store data. If there is a login pass already created it will ask for the login, if not it will ask you to create a pass. Once you login you will be at the main menu, you will have 5 options (Create a new item, Update an item, Delete and item, x - y, Logout)
+
+Commands:
+
+    Create a new item: Adds a new item to the inventory
+    Update an item: Updates an item in the inventory
+    Delete an item: Deletes an item from the inventory
+    x - y: Specify the low ID and High ID and it will give you everything in between including the low and high
+    Logout: Exits the program
+
+Contact:
+
+    Email: myhouseemail9999@gmail.com
