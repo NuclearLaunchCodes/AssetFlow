@@ -15,14 +15,17 @@ About:
 
 How-It-Works:
 
-    if C:\Users\myhou\AppData\Local\Programs\AssetFlow is not a folder it creates it it uses a json file to store data. If there is a login pass already created it will ask for the login, if not it will ask you to create a pass. Once you login you will be at the main menu, you will have 5 options (Create a new item, Update an item, Delete and item, x - y, Logout)
+    if C:\Users\myhou\AppData\Local\Programs\AssetFlow is not a folder it creates it it uses a json file to store data.
+    If there is a login pass already created it will ask for the login, if not it will ask you to create a pass. 
+    Once you login you will be at the main menu, you will have 5 options (Create a new item, Update an item, Delete and item, x - y, Logout)
 
 Commands:
 
     Create a new item: Adds a new item to the inventory
     Update an item: Updates an item in the inventory
     Delete an item: Deletes an item from the inventory
-    x - y: Specify the low ID and High ID and it will give you everything in between including the low and high
+    x - y: Specify the low ID and High ID and it will 
+    give you everything in between including the low and high
     Logout: Exits the program
 
 Contact:
